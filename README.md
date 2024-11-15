@@ -72,10 +72,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" height="32" alt="GitLab" style="margin-right: 4px">
 </div>
 
- **<h3 align="left">GitHub Stats</h3>**
+<div align="center" style="padding-top: 5%">
+  <a href="https://app.daily.dev/albertocahuiche"><img src="https://api.daily.dev/devcards/v2/Yvi8zRO6PQ4MZAP3fbnfF.png?type=default&r=q6n" width="356" alt="Alberto Cahuiche's Dev Card"/></a>
+</div>
 
-<p align="left">
+ **<h3 align="center">GitHub Stats</h3>**
+
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ACahuiche&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ACahuiche&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
